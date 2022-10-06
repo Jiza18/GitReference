@@ -3,6 +3,7 @@
 ## Comando git commit
 
 El git commit sirve para crear commit
+ss
 
 8:::::::::::::D - -- - - - -
 asdfsadfds
@@ -16,12 +17,20 @@ otro
 jfsojasgi
 
 glasj
-hdaush
+hdaus
+
 dsg
 asdg
 sdagsa
 dgsadg
-gsa
+gsagdasgdsaga
 d
 
 jhasdfuiohsd
+
+gsadgasdsdgsdgsdga
+dsg
+sda
+sdag
+asdg
+

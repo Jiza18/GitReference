@@ -19,6 +19,10 @@ otro
 
 jfsojasgi
 
+<<<<<<< HEAD
+
+holaaaaaaaaaaaaaaa
+=======
 glasj
 hdaus
 
@@ -46,3 +50,4 @@ jnibshjibshdgjibzokjnnlkñmlk
 
 Monsef imbecil 
 >>>>>>> 53da7a1a47272d0933409db171710210d61822fc
+>>>>>>> d437400e51c94a799bc8c83d2d8a123385068234

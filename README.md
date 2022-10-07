@@ -3,13 +3,6 @@
 ## Comando git commit
 
 El git commit sirve para crear commit
-<<<<<<< HEAD
-
-=======
-=======
-=======
-ss
->>>>>>> 53da7a1a47272d0933409db171710210d61822fc
 
 8:::::::::::::D - -- - - - -
 asdfsadfds

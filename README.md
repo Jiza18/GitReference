@@ -11,3 +11,5 @@ explicacion del comando
 ```
 git x tal uy cual
 ```
+
+## Comando status

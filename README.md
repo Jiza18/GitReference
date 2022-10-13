@@ -4,15 +4,10 @@
 
 El git commit sirve para crear commit
 
+## Comando git x
 
+explicacion del comando
 
-## COmando git tonteria
-
-
-
-## Bob esponaja
-
-## Patrcio
-
-## Algo
-## Calamardo
+```
+git x
+```

@@ -9,3 +9,15 @@ El git commit sirve para crear commit
  Viva Venezuela 
 
  
+
+
+## COmando git tonteria
+
+
+
+## Bob esponaja
+
+## Patrcio
+
+## Algo
+## Calamardo

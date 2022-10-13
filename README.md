@@ -4,8 +4,6 @@
 
 El git commit sirve para crear commit
 
-hola
+## Comando git x
 
-junior tonto
-
-si
+explicacion del comando

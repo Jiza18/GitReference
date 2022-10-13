@@ -9,5 +9,5 @@ El git commit sirve para crear commit
 explicacion del comando
 
 ```
-git x
+git x tal uy cual
 ```

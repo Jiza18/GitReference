@@ -1,7 +1,8 @@
 # TUTORIAL GIT
 
-## Comando git commit
+ ## Comando git Rebase
 
+<<<<<<< HEAD
 git commit: sirve para crear un commit, que es una foto de los ficheros existentes en el programa (en ese momento).
 
 Ejemplo: 
@@ -38,3 +39,14 @@ y usamos el comando: git merge||Git automaticamente unira las tres brancas en la
 uniendo el codigo o los cambios del archivo y dando opción a organizar este mismo antes de guardar los cambios.
 
 
+=======
+git rebase es la forma de integrar los cambios de una rama en otra.
+
+## Comando git remote
+
+Git remote permite ver todos los repositorios remotos, conectando el dispositivo local con otro remoto.
+
+ # Comando git bisect
+
+ Git bisect se utiliza para realizar una búsqueda binaria a través de su historial de commits para ayudar a identificar lo más rápidamente posible qué commit introdujo un problema.
+>>>>>>> Candido

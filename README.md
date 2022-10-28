@@ -4,7 +4,10 @@
 
 git commit: sirve para crear un commit, que es una foto de los ficheros existentes en el programa (en ese momento).
 
-Ejemplo: git commit -a -m "git commit"
+Ejemplo: 
+```
+git commit -a -m "git commit"
+```
 
 ## Comando git branch
 

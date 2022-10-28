@@ -20,7 +20,10 @@ Ejemplo: git branch Jose
 Sirve para cambiar de una rama a otra
 
 Ejemplo 1: si estamos en la rama main y queremos cambiar a una rama ya existente
-usamos el comando: git checkout nombre_de_la_rama.
+usamos el comando: 
+```
+git checkout nombre_de_la_rama.
+```
 
 Ejemplo 2: si estamos en la rama main y queremos cambiar a una rama que aun no esta creada
 usamos el comando: git checkout -b nombre_de_la_rama||-b para idicarle que si la rama no existe la cree.

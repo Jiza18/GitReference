@@ -6,13 +6,25 @@ Explicación comandos Git mas importantes.
 
 Es el impulsor principal de una etiqueta: creación, modificación y eliminación.
 
+```
+git tag <tag_name>
+```
+
 ## Git pull
 
 Sirve para descargar el contenido de un repositorio.
 
+```
+git pull remote_alias
+```
+
 ## Git Switch
 
 Sirve para cambiar entre distintas ramas, lo cual facilita el trabajo.
+
+```
+git switch branch_name
+```
 
  ## Comando git Rebase
 

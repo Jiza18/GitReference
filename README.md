@@ -1,6 +1,6 @@
 # TUTORIAL GIT
 
-Explicación comandos Git.
+Explicación comandos Git mas importantes.
 
 ## Git tag
 

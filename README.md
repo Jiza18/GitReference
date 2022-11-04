@@ -61,6 +61,7 @@ Git remote permite ver todos los repositorios remotos, conectando el dispositivo
 # Comando git bisect
 
 Git bisect se utiliza para realizar una búsqueda binaria a través de su historial de commits para ayudar a identificar lo más rápidamente posible qué commit introdujo un problema.
+
 ## COMANDO git cherry-pick
 
 ```

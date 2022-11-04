@@ -1,6 +1,6 @@
 # TUTORIAL GIT
 
-
+Explicación comandos Git.
 
 ## Git tag
 
@@ -12,4 +12,4 @@ Sirve para descargar el contenido de un repositorio.
 
 ## Git Switch
 
-Sirve para cambiar entre ramas y en todo caso crearlas.
+Sirve para cambiar entre distintas ramas, lo cual facilita el trabajo.
